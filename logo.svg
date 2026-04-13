@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#C8963E"/>
+      <stop offset="100%" style="stop-color:#F0C96B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left decorative bar -->
+  <rect x="0" y="10" width="4" height="40" rx="2" fill="url(#goldGrad)"/>
+
+  <!-- S B T monogram box -->
+  <rect x="10" y="8" width="44" height="44" rx="6" fill="#1A1208"/>
+  <rect x="10" y="8" width="44" height="44" rx="6" fill="none" stroke="url(#goldGrad)" stroke-width="1.5"/>
+  <text x="32" y="36" font-family="Georgia, serif" font-size="18" font-weight="700"
+        fill="url(#goldGrad)" text-anchor="middle" dominant-baseline="central"
+        letter-spacing="1">SBT</text>
+
+  <!-- Business name -->
+  <text x="62" y="22" font-family="Georgia, serif" font-size="13" font-weight="700"
+        fill="#F0C96B" letter-spacing="0.5">Shree Balaji</text>
+  <text x="62" y="38" font-family="Georgia, serif" font-size="13" font-weight="700"
+        fill="#ffffff" letter-spacing="0.5">Traders</text>
+
+  <!-- Tagline -->
+  <text x="62" y="52" font-family="Arial, sans-serif" font-size="7.5" font-weight="400"
+        fill="#C8963E" letter-spacing="1.5">AUTHORISED DISTRIBUTOR · ALIGARH</text>
+</svg>
